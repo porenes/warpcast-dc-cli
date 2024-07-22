@@ -1,0 +1,17 @@
+{
+  "name": "warpcast-dc-cli",
+  "version": "1.0.0",
+  "description": "A command-line tool to send direct casts using the Warpcast API",
+  "main": "index.js",
+  "bin": {
+    "warpcast-dc-cli": "./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "commander": "^7.2.0",
+    "csv-parser": "^2.3.3",
+    "csv-writer": "^1.6.0",
+    "uuid": "^8.3.2",
+    "cli-progress": "^3.9.1"
+  }
+}

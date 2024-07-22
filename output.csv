@@ -1,0 +1,2 @@
+Recipient FID,Message,Idempotency Key,Status,Response
+363675,another message,fa0351df-7657-43c9-8d2b-0ed0b60c918a,Success,"{""result"":{""success"":true}}"
